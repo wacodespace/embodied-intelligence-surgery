@@ -16,11 +16,16 @@ reports/          # 行业调研报告（按日期更新）
 references/       # 关键论文笔记与链接整理
 resources/        # 配图、演示素材说明
 pipeline/         # 技术路线与Demo脚本
+prompt/           # 研究型 Agent Prompt 与报告生成模板
 ```
 
 ## 核心报告
 
 - [2026.2.26 增强版报告](reports/report_2_26_enhanced.md) — 具身智能与3D点云重建技术在正颌外科的应用
+
+## Prompt 模板
+
+- [正颌外科 × Embodied AI × Surgical Agent 战略调研 Prompt](prompt/example.md) — 面向顶尖 PI、AI Scientist 与产业战略研究员的系统调研报告生成模板
 
 ## 快速链接
 
@@ -53,6 +58,7 @@ pipeline/         # 技术路线与Demo脚本
 
 ## 更新日志
 
+- **2026.5.1** — 新增正颌外科 × Embodied AI × Surgical Agent 战略调研 Prompt
 - **2026.2.26** — 初始版本：具身智能+3DGS+Vision Pro完整调研
 
 ## License
